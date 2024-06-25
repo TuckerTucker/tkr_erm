@@ -1,0 +1,11 @@
+# tkr_erm
+neo4j
+py2neo
+bs4
+openai
+
+# tkr_utils
+logger
+asyncio
+requests
+python-dotenv
